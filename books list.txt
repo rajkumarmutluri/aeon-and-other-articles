@@ -1,0 +1,54 @@
+topic : Critical Thinking 
+
+"Thinking, Fast and Slow" by Daniel Kahneman - This book explores the psychological biases that can impact our thinking and decision making.
+
+"How to Read a Book" by Mortimer Adler and Charles Van Doren - This classic book teaches the fundamental skills of critical reading and thinking, including how to analyze and evaluate arguments.
+
+"Asking the Right Questions: A Guide to Critical Thinking" by M. Neil Browne and Stuart M. Keeley - This book provides a step-by-step guide to critical thinking, including how to analyze arguments and assess evidence.
+
+"A Rulebook for Arguments" by Anthony Weston - This concise guide provides practical advice on how to construct and evaluate arguments, and how to identify common fallacies.
+
+"The Art of Reasoning" by David Kelley - This comprehensive textbook covers the basics of logic and critical thinking, including the principles of deduction, induction, and abduction.
+
+"The Thinking Person's Guide to Writing in the 21st Century" by Brooke Noel Moore and Richard Parker - This book provides practical advice on how to develop critical thinking skills through writing, and how to communicate ideas effectively.
+
+"The Demon-Haunted World: Science as a Candle in the Dark" by Carl Sagan - This book promotes scientific skepticism and critical thinking, and provides an accessible introduction to the scientific method.
+
+"The Thinker's Toolkit: 14 Powerful Techniques for Problem Solving" by Morgan D. Jones
+
+"Thinking Critically" by John Chaffee
+
+"Critical Thinking: An Introduction" by Alec Fisher
+
+
+
+
+
+topic : Problem Solving
+
+"Thinking, Fast and Slow" by Daniel Kahneman
+"The Art of Reasoning" by David Kelley
+"How to Read a Book" by Mortimer Adler and Charles Van Doren
+"The 5 Elements of Effective Thinking" by Edward B. Burger and Michael Starbird
+"The Art of Problem Solving" by Sandor Lehoczky and Richard Rusczyk
+"A Guide for the Perplexed" by E.F. Schumacher
+"Solving the Problem of Democracy" by Cass R. Sunstein
+"The Structure of Scientific Revolutions" by Thomas S. Kuhn
+"The Power of Intentional Leadership" by John C. Maxwell
+"Good Thinking: What You Need to Know to be Smarter, Safer, Wealthier, and Wiser" by Gerd Gigerenzer.
+
+
+topic : Critical writing
+
+"The Elements of Style" by William Strunk Jr. and E.B. White
+"Bird by Bird: Some Instructions on Writing and Life" by Anne Lamott
+"On Writing Well: An Informal Guide to Writing Nonfiction" by William Zinsser
+"The Writer's Journey: Mythic Structure for Writers" by Christopher Vogler
+"The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century" by Steven Pinker
+"The Writing Life" by Annie Dillard
+"The Craft of Research" by Wayne C. Booth, Gregory G. Colomb, and Joseph M. Williams
+"How to Write a Lot: A Practical Guide to Productive Academic Writing" by Paul J. Silvia
+"The Elements of Story: Field Notes on Nonfiction Writing" by Francis Flaherty
+"Eats, Shoots & Leaves: The Zero Tolerance Approach to Punctuation" by Lynne Truss
+
+
